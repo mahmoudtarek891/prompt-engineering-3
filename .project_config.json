@@ -1,16 +1,16 @@
 {
-  "id": "93d505df-3fdf-4fca-8865-cf4cf7e2cf5f",
+  "id": "094c8cfe-fc3a-412b-80b1-b4098996c24a",
   "name": "prompt-engineering-3",
   "displayName": "Prompt Engineering 3",
   "directory": "D:\\dev\\projects\\prompt-engineering-3",
-  "createdAt": "2025-12-26T20:33:57.292533600Z",
+  "createdAt": "2025-12-26T20:43:39.212584600Z",
   "status": "not_started",
   "currentPhase": 0,
   "progress": 0,
   "config": {
     "git": {
       "enabled": true,
-      "remoteOrigin": "https://github.com/mahmoudtarek891/prompt-engineering-3.git",
+      "remoteOrigin": "https://github.com/mahmoudtarek891/prompt-engineering-4.git",
       "autoCommit": true,
       "autoPush": true,
       "commitFrequency": "phase"
